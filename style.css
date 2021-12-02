@@ -1,7 +1,7 @@
 body{
     background: url(./images/pattern-background-desktop.svg) no-repeat center center/cover;
-    width: 90vw;
-    height: 50vh;
+    width: 100vw;
+    height: 30vh;
     background-color: hsl(225, 100%, 94%)
 
 }
