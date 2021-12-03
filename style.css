@@ -85,6 +85,7 @@ a:hover{
     color: hsl(245, 75%, 52%);
     opacity: 75%;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .order{
@@ -94,6 +95,7 @@ a:hover{
 }
 .order:hover{
     color: black;
+    cursor: pointer;
 }
 
 button{
@@ -110,6 +112,7 @@ button{
 button:hover{
     background-color: hsl(245, 75%, 52%);
     opacity: 75%;
+    cursor: pointer;
 }
 
 .attribution{
